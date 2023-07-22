@@ -1,0 +1,57 @@
+2023-07-20T09:08:32.871Z - info: Website generation (lazy) started at 5:08:27 pm
+2023-07-20T09:08:43.289Z - info: Building assets...
+2023-07-20T09:08:50.167Z - info: Assets built
+2023-07-20T09:08:50.168Z - info: Generating landing page...
+2023-07-20T09:08:50.900Z - info: Landing page built, other pages will be built as you navigate to them!
+2023-07-20T09:08:52.726Z - info: Site data built
+2023-07-20T09:08:52.727Z - info: Website generation (lazy) complete! Total build time: 25.296s
+2023-07-20T09:08:53.636Z - info: Serving "C:\repos\nus-cs2103\cs2103-website-base\_site" at http://127.0.0.1:8080
+2023-07-20T09:08:53.636Z - info: Press CTRL+C to stop ...
+2023-07-20T09:09:40.425Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\schedule\week4\index as some of its dependencies were changed since the last visit
+2023-07-20T09:09:42.358Z - info: Site data built
+2023-07-20T09:09:42.358Z - info: Lazy website regeneration complete! Total build time: 1.938s
+2023-07-20T09:09:43.003Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\schedule\week4\index as some of its dependencies were changed since the last visit
+2023-07-20T09:09:43.806Z - info: Site data built
+2023-07-20T09:09:43.807Z - info: Lazy website regeneration complete! Total build time: 0.804s
+2023-07-20T09:09:48.130Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\schedule\week4\topics as some of its dependencies were changed since the last visit
+2023-07-20T09:09:53.774Z - info: Site data built
+2023-07-20T09:09:53.775Z - info: Lazy website regeneration complete! Total build time: 5.645s
+2023-07-20T09:10:01.663Z - debug:  
+2023-07-20T09:10:01.726Z - debug:  
+2023-07-20T09:10:01.798Z - debug:  
+2023-07-20T09:10:01.970Z - debug:  
+2023-07-20T09:10:01.988Z - debug:  
+2023-07-20T09:10:02.228Z - debug:  
+2023-07-20T09:10:02.314Z - debug:  
+2023-07-20T09:10:02.412Z - debug:  
+2023-07-20T09:10:02.454Z - debug:  
+2023-07-20T09:10:02.534Z - debug:  
+2023-07-20T09:10:02.612Z - debug:  
+2023-07-20T09:14:13.128Z - info: [5:14:13 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\_markbind\boilerplates\exercisesPanel.md
+2023-07-20T09:14:13.129Z - info: Synchronizing opened pages list before reload
+2023-07-20T09:14:13.130Z - info: Current opened pages, from most-to-least recent:
+2023-07-20T09:14:13.130Z - info: 1. schedule/week4/topics
+2023-07-20T09:14:14.145Z - info: Rebuilding 1 pages
+2023-07-20T09:14:18.132Z - info: Site data built
+2023-07-20T09:14:18.133Z - info: Pages rebuilt
+2023-07-20T09:14:18.134Z - info: Website regeneration complete! Total build time: 3.99s
+2023-07-20T09:14:23.802Z - debug:  
+2023-07-20T09:14:24.247Z - debug:  
+2023-07-20T09:14:24.344Z - debug:  
+2023-07-20T09:14:24.455Z - debug:  
+2023-07-20T09:14:24.491Z - debug:  
+2023-07-20T09:14:24.529Z - debug:  
+2023-07-20T09:14:24.569Z - debug:  
+2023-07-20T09:14:24.653Z - debug:  
+2023-07-20T09:14:24.679Z - debug:  
+2023-07-20T09:14:24.847Z - debug:  
+2023-07-20T09:14:25.080Z - debug:  
+2023-07-20T09:16:44.807Z - info: [5:16:44 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\_course-TIC2002\weeklyTextbookTopics-fragment.md
+2023-07-20T09:16:44.807Z - info: Synchronizing opened pages list before reload
+2023-07-20T09:16:44.808Z - info: Current opened pages, from most-to-least recent:
+2023-07-20T09:16:44.808Z - info: 1. schedule/week4/topics
+2023-07-20T09:16:44.829Z - info: [5:16:44 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\_course-CS2113\weeklyTextbookTopics-fragment.md
+2023-07-20T09:16:44.829Z - info: Synchronizing opened pages list before reload
+2023-07-20T09:16:44.829Z - info: Current opened pages, from most-to-least recent:
+2023-07-20T09:16:44.829Z - info: 1. schedule/week4/topics
+2023-07-20T09:16:45.817Z - info: Assets built
