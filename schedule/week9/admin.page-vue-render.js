@@ -35,6 +35,6 @@ with(this){return _c('ol',{attrs:{"start":"2"}},[_c('li',[_v("Now, imagine one o
 with(this){return _c('ol',{attrs:{"start":"3"}},[_c('li',[_v("Suppose another member has pushed another branch "),_c('code',{pre:true,attrs:{"class":"line-numbers hljs inline no-lang"}},[_v("add-details-to-readme")]),_v(" to the same remote repo. Pull that one too and merge it. If there is a merge conflict, resolve it too.")]),_v(" "),_c('li',[_v("Push your master branch to your fork.")])])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.0.1")]),_v(", generated on Sat, 22 Jul 2023, 18:50:18 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.0.1")]),_v(", generated on Sat, 22 Jul 2023, 19:05:09 GMT+8]")])])])}
 }];
   
