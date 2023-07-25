@@ -1,0 +1,29 @@
+2023-07-25T07:06:30.072Z - info: Website generation (lazy) started at 3:06:27 pm
+2023-07-25T07:06:43.327Z - info: Building assets...
+2023-07-25T07:06:51.336Z - info: Assets built
+2023-07-25T07:06:51.337Z - info: Generating landing page...
+2023-07-25T07:06:54.264Z - info: Landing page built, other pages will be built as you navigate to them!
+2023-07-25T07:06:55.398Z - info: Site data built
+2023-07-25T07:06:55.399Z - info: Website generation (lazy) complete! Total build time: 27.607s
+2023-07-25T07:06:56.360Z - info: Serving "C:\repos\nus-cs2103\cs2103-website-base\_site" at http://127.0.0.1:8080
+2023-07-25T07:06:56.361Z - info: Press CTRL+C to stop ...
+2023-07-25T07:12:28.584Z - info: [3:12:28 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\_markbind\variables.md
+2023-07-25T07:12:28.585Z - info: Synchronizing opened pages list before reload
+2023-07-25T07:12:28.585Z - info: Current opened pages, from most-to-least recent:
+2023-07-25T07:12:28.586Z - info: 1. index
+2023-07-25T07:12:29.733Z - warn: Rebuilding all pages as variables file was changed, or the --force-reload flag was set
+2023-07-25T07:12:29.738Z - info: Rebuilding 1 pages
+2023-07-25T07:12:31.744Z - info: Site data built
+2023-07-25T07:12:31.745Z - info: Pages rebuilt
+2023-07-25T07:12:31.745Z - info: Website regeneration complete! Total build time: 2.152s
+2023-07-25T07:13:15.836Z - info: Website generation (lazy) started at 3:13:13 pm
+2023-07-25T07:13:26.362Z - info: Building assets...
+2023-07-25T07:13:34.762Z - info: Assets built
+2023-07-25T07:13:34.763Z - info: Generating landing page...
+2023-07-25T07:13:37.105Z - info: Landing page built, other pages will be built as you navigate to them!
+2023-07-25T07:13:37.746Z - info: Site data built
+2023-07-25T07:13:37.746Z - info: Website generation (lazy) complete! Total build time: 23.783s
+2023-07-25T07:13:38.631Z - info: Serving "C:\repos\nus-cs2103\cs2103-website-base\_site" at http://127.0.0.1:8080
+2023-07-25T07:13:38.632Z - info: Press CTRL+C to stop ...
+2023-07-25T07:24:51.543Z - info: Website generation started at 3:24:49 pm
+2023-07-25T07:25:02.458Z - info: Building assets...
