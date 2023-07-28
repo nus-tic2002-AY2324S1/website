@@ -161,7 +161,7 @@ with(this){return _c('div',{staticClass:"indented"},[_c('div',{staticClass:"cont
 with(this){return _c('h1',{attrs:{"id":"lectures-tutorials"}},[_v("Lectures + Tutorials"),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#lectures-tutorials","onclick":"event.stopPropagation()"}})])}
 },function anonymous(
 ) {
-with(this){return _c('p',[_c('span',{staticClass:"dimmed"},[_c('span',{staticClass:"far fa-clock",attrs:{"aria-hidden":"true"}})]),_v(" Tuesdays 6.30-9.30pm"),_c('br'),_v(" "),_c('span',{staticClass:"dimmed"},[_c('span',{staticClass:"fas fa-map-marker-alt",attrs:{"aria-hidden":"true"}})]),_v(" COM1-0207"),_c('br')])}
+with(this){return _c('p',[_c('span',{staticClass:"dimmed"},[_c('span',{staticClass:"far fa-clock",attrs:{"aria-hidden":"true"}})]),_v(" Tuesdays 6.30-9.30pm"),_c('br'),_v(" "),_c('span',{staticClass:"dimmed"},[_c('span',{staticClass:"fas fa-map-marker-alt",attrs:{"aria-hidden":"true"}})]),_v(" COM1-0210"),_c('br')])}
 },function anonymous(
 ) {
 with(this){return _c('p',[_c('strong',[_v("A TIC2002 lecture + tutorial time is divided into three parts")]),_v(", as follows:")])}
@@ -299,6 +299,6 @@ with(this){return _c('h2',{attrs:{"id":"exam-briefing-mock-exam-practice-exam-pa
 with(this){return _c('ul',[_c('li',[_v("There will be an exam briefing in the penultimate lecture. It will include a minimal mock exam, just to help you understand the structure.")]),_v(" "),_c('li',[_v("You will be given a practice exam paper (at least half the size of the full paper) to help you practice timing. That practice paper will be released at least one week before the exam.")])])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.0.1")]),_v(", generated on Tue, 25 Jul 2023, 15:25:09 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.0.1")]),_v(", generated on Fri, 28 Jul 2023, 9:19:55 GMT+8]")])])])}
 }];
   
