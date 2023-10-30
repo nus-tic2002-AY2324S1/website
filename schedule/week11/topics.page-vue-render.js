@@ -11,7 +11,7 @@ with(this){return _c('nav',[_c('ul',{staticClass:"pagination mt-2"},[_c('li',{st
 with(this){return _c('h1',{attrs:{"id":"week-11-mon-oct-30th-topics"}},[_v("Week 11 "),_c('small',[_c('small',[_c('span',{staticClass:"dimmed"},[_v("[Mon, Oct 30th]")]),_v(" - Topics")])]),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#week-11-mon-oct-30th-topics","onclick":"event.stopPropagation()"}})])}
 },function anonymous(
 ) {
-with(this){return _c('div',[_c('div',[_c('div',{staticClass:"border border-success pt-0 ps-1 pb-1 pe-1 border-bottom-0 rounded-top",staticStyle:{"background-color":"#e6fff2"}},[_c('p',[_c('span',{staticClass:"text-success"},[_c('small',[_c('strong',[_c('span',{staticClass:"far fa-hand-point-down",attrs:{"aria-hidden":"true"}})]),_v(" Guidance for the item(s) below:")])]),_c('br')]),_v(" "),_c('div',{staticClass:"indented"},[_c('div',[_c('p',[_v("Earlier, you learned the basic syntax used in sequence diagrams. Now, let's learn some intermediate syntax.")])])])])])])}
+with(this){return _c('div',[_c('div',[_c('div',{staticClass:"border border-success pt-0 ps-1 pb-1 pe-1 border-bottom-0 rounded-top",staticStyle:{"background-color":"#e6fff2"}},[_c('p',[_c('span',{staticClass:"text-success"},[_c('small',[_c('strong',[_c('span',{staticClass:"far fa-hand-point-down",attrs:{"aria-hidden":"true"}})]),_v(" Guidance for the item(s) below:")])]),_c('br')]),_v(" "),_c('div',{staticClass:"indented"},[_c('div',[_c('p',[_v("Earlier, you learned the basic notation used in sequence diagrams. Now, let's learn some intermediate notation.")])])])])])])}
 },function anonymous(
 ) {
 with(this){return _c('p',[_c('span',{staticClass:"text-success"},[_c('small',[_c('strong',[_c('span',{staticClass:"far fa-hand-point-up",attrs:{"aria-hidden":"true"}})]),_v(" Follow up notes for the item(s) above:")])]),_c('br')])}
@@ -47,6 +47,6 @@ with(this){return _c('div',{staticClass:"indented"},[_c('div')])}
 with(this){return _c('div',{staticClass:"indented"},[_c('div')])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.1.0")]),_v(", generated on Tue, 24 Oct 2023, 20:27:20 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.1.0")]),_v(", generated on Mon, 30 Oct 2023, 15:32:05 GMT+8]")])])])}
 }];
   
